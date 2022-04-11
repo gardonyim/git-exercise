@@ -4,7 +4,10 @@ public class Exercise1C {
         cheer();
     }
 
+
     public static void cheer() {
         System.out.println("Hungarian");
+
+
     }
 }
