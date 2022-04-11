@@ -1,6 +1,10 @@
 public class ClassB {
 
-  public void count(int month) {
-    System.out.println(month);
+  public static void main(String[] args) {
+    count(0);
+  }
+
+  public static void count(int number) {
+    System.out.println("Counting the countless" + number);
   }
 }
