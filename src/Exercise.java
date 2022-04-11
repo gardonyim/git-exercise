@@ -5,6 +5,6 @@ public class Exercise {
   }
 
   public static void future(String name) {
-    System.out.println("The horoscope sign of " + name + " is Crab");
+    System.out.println("Your future looks like " + name);
   }
 }
