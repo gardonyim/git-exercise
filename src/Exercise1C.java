@@ -5,6 +5,6 @@ public class Exercise1C {
     }
 
     public static void cheer() {
-        System.out.println("CH4");
+        System.out.println("Hungarian");
     }
 }
