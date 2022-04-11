@@ -5,6 +5,6 @@ public class Exercise {
   }
 
   public static void future() {
-    System.out.println("Crab");
+    System.out.println("Rooster");
   }
 }
