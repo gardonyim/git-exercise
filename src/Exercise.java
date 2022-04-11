@@ -4,7 +4,7 @@ public class Exercise {
     future("Márk", 49);
   }
 
-  public static void future(String name, int age) {
-    System.out.println("The horoscope sign of " + name + ", age " + age + " is Crab");
+  public static void future(String name) {
+    System.out.println("Your future looks like " + name);
   }
 }
