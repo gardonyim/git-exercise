@@ -1,12 +1,13 @@
 public class Exercise1C {
 
     public static void main(String[] args) {
-        cheer();
+
+        cheer("Methane");
     }
 
 
-    public static void cheer() {
-        System.out.println("Hungarian");
+    public static void cheer(String teamname) {
+        System.out.println("Cheer for the " + teamname);
 
 
     }
