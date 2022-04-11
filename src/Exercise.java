@@ -1,10 +1,10 @@
 public class Exercise {
 
   public static void main(String[] args) {
-    future();
+    future("Márk");
   }
 
-  public static void future() {
-    System.out.println("Crab");
+  public static void future(String name) {
+    System.out.println("The horoscope sign of " + name + " is Crab");
   }
 }
